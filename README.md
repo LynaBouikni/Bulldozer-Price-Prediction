@@ -80,3 +80,31 @@ These features showed the highest predictive power based on impurity-based impor
 ├── requirements.txt
 └── data/ (not included due to Kaggle terms)
 ```
+
+---
+
+## 💡 Takeaways
+
+- **Year of manufacture**, **product size**, and **sale year** are the most influential features.
+- Proper time-aware validation (splitting by date) is crucial for forecasting tasks.
+- Feature engineering significantly boosts model performance for structured data.
+
+---
+
+## 🚀 Future Improvements
+
+- 📌 Hyperparameter tuning with `RandomizedSearchCV`
+- 📊 Use **SHAP** for better explainability
+- 🧪 Experiment with LightGBM/XGBoost
+
+---
+
+## 📬 Contact
+
+**Lyna Bouikni**  
+📫 [lynabouiknia@gmail.com](mailto:lynabouiknia@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/lyna-b-231a41126)
+
+---
+
+_This project is part of my data science portfolio. Fork, star, or reach out for collaborations!_
