@@ -77,6 +77,6 @@ These features showed the highest predictive power based on impurity-based impor
 ```bash
 ├── end_to_end_bulldozer_price_regression.ipynb # Main notebook
 ├── README.md
-├── requirements.txt (optional)
+├── requirements.txt
 └── data/ (not included due to Kaggle terms)
 ```
